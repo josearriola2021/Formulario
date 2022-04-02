@@ -1,0 +1,33 @@
+h1{
+    color: rgb(26, 233, 184);
+}
+
+label{
+    color: #fff;
+}
+
+input{
+    border: 2px solid gray;
+    margin-bottom: 5px;
+}
+
+form{
+    width: 30%;
+    text-align: center;
+    background-color: blueviolet;
+    margin: 100px auto;
+    padding: 10px 0 20px;
+}
+
+body{
+    background-color: red;
+}
+
+button{
+    background-color: green;
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+    border: 1px solid gray;
+    color: #fff;
+}
